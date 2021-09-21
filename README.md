@@ -1,3 +1,3 @@
 # hello-world
 prve repository TEM
-hlavn program
+hlavny program
