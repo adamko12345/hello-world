@@ -1,3 +1,3 @@
 # hello-world
 prve repository TEM
-jozef
+hlavn program
